@@ -218,4 +218,4 @@ This avoids nested input loops and keeps the program structure flat and readable
 
 ## License
 
-Public domain / MIT - use freely in any QBASIC project.
+ See [LICENSE](LICENSE).
